@@ -9,6 +9,7 @@ Insight & Findings
 4. SME yang berusia muda dan Enterprise berusia menengah menunjukkan keterlibatan rendah dalam penggunaan AI, membuka peluang edukasi dan transformasi digital lebih lanjut.
 
 AI Support Explanation
+
 Selama proses analisis, AI membantu saya mempercepat dan menyederhanakan banyak tahapan. Mulai dari eksplorasi data, hingga menemukan pola dari berbagai bentuk data yang telah divisualisasikan yang belum saya temukan.Ini membuat pekerjaan saya dalam menganalisis data menjadi lebih efisien.
 
 Dengan bantuan model AI seperti IBM Granite, kita bisa lebih mudah memahami segmen mana yang sudah siap adopsi teknologi, dan mana yang butuh pendekatan khusus. Insight seperti ini bukan cuma menghemat waktu, tapi juga bikin rekomendasi jadi lebih tepat sasaran dan berdampak langsung ke target bisnis.
